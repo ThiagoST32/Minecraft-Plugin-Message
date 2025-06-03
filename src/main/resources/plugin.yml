@@ -1,0 +1,4 @@
+name: MessageLoginUser
+version: '1.0-SNAPSHOT'
+main: org.plugins.messageLoginUser.MessageLoginUser
+api-version: '1.21'
